@@ -2,3 +2,4 @@
 - git status: Muestra el estado del árbol de trabajo. Este comando lista los archivos que han sido modificados, agregados, o que están pendientes de ser comprometidos al repositorio.
 - git add <archivo>: Añade un archivo al área de preparación (staging area). Este comando se utiliza para incluir los cambios de un archivo específico en el próximo commit. Por ejemplo, git add ejemplo.txt prepara el archivo "ejemplo.txt" para ser comprometido.
 - git commit -m "mensaje": Realiza un commit de los cambios. Este comando guarda los cambios preparados en el historial del repositorio junto con un mensaje de commit que describe los cambios. Por ejemplo, git commit -m "Añadida funcionalidad X".
+- 
