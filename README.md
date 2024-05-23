@@ -3,6 +3,18 @@
 Bienvenido a mi repositorio de Git. Este repositorio contiene ejemplos y comandos básicos para trabajar con Git. Es una guía útil para principiantes que quieren aprender a utilizar Git y GitHub.
 En un principio está creada para mi uso y disfrute, pero todo aquel que quiera hacer uso de él es bienvenido, aquí iré añadiendo poco a poco todo lo que considere útil o relevante.
 
+## Libros y enlaces de interés
+- https://informatica.ucm.es/data/cont/media/www/pag-66886/TallerGitGitHub.pdf
+- https://www.uco.es/aulasoftwarelibre/wp-content/uploads/2015/11/git-cosfera-dia-1.pdf
+- https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf
+- https://aprendeconalf.es/docencia/git/manual/manual-git.pdf
+- https://www.valor.es/wp-content/uploads/2016/04/git_manual.pdf
+- https://www.dit.upm.es/~santiago/docencia/grado/core/GIT.pdf
+- https://git-scm.com/book/es/v2
+
+ ## Libro de pago
+No es gratis como los otros, pero es muy recomendable
+https://amzn.to/3QXDJ69
 Contenido
 Instalación de Git
 Configuración Inicial
