@@ -101,3 +101,7 @@ Actualiza tu repositorio local con los cambios del repositorio remoto:
 bash
 Copy code
 git pull
+
+# Sintaxis de escritura y formato básicos
+## Sintaxis de escritura y formato básicos
+### Sintaxis de escritura y formato básicos
